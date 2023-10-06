@@ -1,0 +1,62 @@
+h1{
+    font-family: "Main font";
+    size: 32px;
+    padding-top: 70px;
+    padding-left: 240px;
+}
+div{
+    display: inline-block;
+}
+.main-div{
+    width: 100%;
+    margin-top: 80px;
+    margin-left: 240px;
+}
+.second-div{
+    margin-left: 25px;
+}
+.third-div{
+    margin-left: 25px;
+}
+.fourth-div{
+    margin-left: 25px;
+}
+.first-p{
+    background-color: #FFFFFF;
+    width: 443px;
+    height: 125px;
+    left: 260px;
+    top: 600px;
+    border-radius: 12px;
+    position: absolute;
+}
+.second-p{
+    background-color: #FFFFFF;
+    width: 443px;
+    height: 125px;
+    left: 795px;
+    top: 545px;
+    border-radius: 12px;
+    position: absolute;
+}
+.third-p{
+    background-color: #FFFFFF;
+    width: 443px;
+    height: 125px;
+    left: 1335px;
+    top: 600px;
+    border-radius: 12px;
+    position: absolute;
+}
+.fourth-p{
+    background-color: #FFFFFF;
+    width: 443px;
+    height: 125px;
+    left: 1900px;
+    top: 600px;
+    border-radius: 12px;
+    position: absolute;
+}
+p{
+    margin-left: 10px;
+}
